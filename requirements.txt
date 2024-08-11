@@ -6,14 +6,14 @@ aiosqlite==0.20.0
 annotated-types==0.7.0
 anyio==4.4.0
 appdirs==1.4.4
-appnope @ file:///home/conda/feedstock_root/build_artifacts/appnope_1707233003401/work
+# appnope @ file:///home/conda/feedstock_root/build_artifacts/appnope_1707233003401/work
 asgiref==3.8.1
-asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_1698341106958/work
+# asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_1698341106958/work
 astunparse==1.6.3
 async-timeout==4.0.3
 attrs==24.1.0
 audioread==3.0.1
-backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
+# backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
 blinker==1.8.2
 cattrs==23.1.2
 certifi==2024.7.4
@@ -23,16 +23,16 @@ circus==0.18.0
 click==8.1.7
 click-option-group==0.5.6
 cloudpickle==3.0.0
-comm @ file:///home/conda/feedstock_root/build_artifacts/comm_1710320294760/work
+# comm @ file:///home/conda/feedstock_root/build_artifacts/comm_1710320294760/work
 contourpy==1.2.1
 cycler==0.12.1
-debugpy @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_563_nwtkoc/croot/debugpy_1690905063850/work
-decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1641555617451/work
+# debugpy @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_563_nwtkoc/croot/debugpy_1690905063850/work
+# decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1641555617451/work
 deepmerge==1.1.1
 Deprecated==1.2.14
-entrypoints @ file:///home/conda/feedstock_root/build_artifacts/entrypoints_1643888246732/work
+# entrypoints @ file:///home/conda/feedstock_root/build_artifacts/entrypoints_1643888246732/work
 exceptiongroup==1.2.2
-executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1698579936712/work
+# executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1698579936712/work
 Flask==3.0.3
 flatbuffers==24.3.25
 fonttools==4.53.1
